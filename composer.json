@@ -5,24 +5,28 @@
     "require-dev": {
         "phpunit/phpunit": "~4.5,>=4.5.1"
     },
-    "name": "j7mbo/twitter-api-php",
-    "description": "Simple PHP Wrapper for Twitter API v1.1 calls",
+    "name": "nunorbatista/yii2-twitter-api-interface",
+    "description": "Yii2 Twitter API Interface",
     "type": "library",
     "keywords": [
         "twitter",
-        "PHP",
+        "yii",
         "API"
     ],
-    "homepage": "https://github.com/j7mbo/twitter-api-php",
+    "homepage": "https://github.com/nunorbatista/yii2-twitter-api-interface",
     "license": "GNU Public License",
     "authors": [
         {
             "name": "James Mallison",
             "homepage": "https://github.com/j7mbo/twitter-api-php"
-        }
+        },
+        {
+            "name": "Nuno Batista",
+            "homepage": "https://github.com/nunorbatista/"
+        }        
     ],
     "autoload": {
-        "files": ["TwitterAPIExchange.php"]
+        "files": ["TwitterAPIInterface.php"]
     },
     "extra": {
         "branch-alias": {
