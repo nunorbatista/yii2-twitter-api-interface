@@ -1,5 +1,7 @@
 <?php
 
+namespace twitter\api;
+
 /**
  * Yii2 Twitter API Interface
  * 
