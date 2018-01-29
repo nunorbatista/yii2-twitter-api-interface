@@ -4,7 +4,7 @@
     "description": "Yii2 Twitter API Interface",
     "keywords": ["yii2", "extension", "twitter" ],
     "homepage": "https://github.com/nunorbatista/yii2-twitter-api-interface",
-    "license": "GNU Public License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nuno Batista",
@@ -13,7 +13,7 @@
         }     
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "~2.0.0"
     },
     "autoload": {
         "psr-4": {
